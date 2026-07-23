@@ -16,3 +16,4 @@ This project is an AI-powered chatbot built using Chatbase and GPT-4o.
 
 ## Author
 Dharsanyaselva
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dharshanya?theme=light&font=Alex%20Brush)
